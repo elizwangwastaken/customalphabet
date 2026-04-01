@@ -11,4 +11,3 @@ Thumbs.db
 vite.config.ts.timestamp-*
 npm-debug.log*
 pnpm-debug.log*
-.claude/
