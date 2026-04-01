@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.local
+vite.config.ts.timestamp-*
+npm-debug.log*
+pnpm-debug.log*
+.claude/
